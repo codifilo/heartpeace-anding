@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Heart Rate Monitor
-    description                           : Use the iPhone camera to read heart rate data from your finger or connect to a bluetooth heart rate monitor that supports R-R intervals like Polar H9
+    description                           : Use the iPhone camera to read heart rate data from your finger or connect to a bluetooth heart rate monitor that supports R-R intervals like Polar H9.
     fontawesome_icon_name                 : heartbeat
 
   - title                                 : HRV
@@ -43,11 +43,11 @@ features                                  :
     fontawesome_icon_name                 : calculator
 
   - title                                 : Biofeedback
-    description                           : The calculated HRV scores are mapped to animations and sounds will reflect your inner peace state in real time.
+    description                           : The calculated HRV scores are mapped to animations and sounds that reflect your inner peace state in real time.
     fontawesome_icon_name                 : sun
 
   - title                                 : History
-    description                           : Track progress across all sessions by analizing collected session data
+    description                           : Track progress over time by analizing collected session data.
     fontawesome_icon_name                 : chart-bar
 
   - title                                 : iCloud
@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : cloud
 
   - title                                 : Reminders
-    description                           : Set reminders to build a healthy practice
+    description                           : Set reminders to build a healthy practice.
     fontawesome_icon_name                 : bell
   
 
